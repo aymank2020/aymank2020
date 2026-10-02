@@ -13,6 +13,8 @@ Software engineer from Egypt, now focused on **game development with Unreal Engi
 
 Each repository has a design document, a milestone roadmap, and a status log that is updated as the work lands.
 
+The games now also have small, buildable C++ core prototypes: [seeded chamber generation](https://github.com/aymank2020/duatfall/blob/codex/review-develop-2026-10-02/docs/CORE.md), [validated grid movement](https://github.com/aymank2020/gridline/blob/codex/review-develop-2026-10-02/docs/CORE.md), and [idempotent inventory requests](https://github.com/aymank2020/hearthwake/blob/codex/review-develop-2026-10-02/docs/CORE.md). These foundations have portable tests; Unreal Editor integration and playable builds remain pending.
+
 ## Other work
 - [**SolveEngine**](https://github.com/aymank2020/SolveEngine), [**ConstraintForge**](https://github.com/aymank2020/ConstraintForge), [**DagFlow**](https://github.com/aymank2020/DagFlow): Python engines for solving, constraints and task graphs
 - [**DinarLedger**](https://github.com/aymank2020/DinarLedger): a financial ledger
